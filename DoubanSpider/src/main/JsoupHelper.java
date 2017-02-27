@@ -1,4 +1,4 @@
-package com.jsoup;
+package org.climer.jsoup;
 
 import java.io.IOException;
 import org.jsoup.Jsoup;

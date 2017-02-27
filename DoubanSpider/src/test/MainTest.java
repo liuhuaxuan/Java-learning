@@ -1,12 +1,13 @@
-package com.test;
+package mainttest;
 
 import java.io.IOException;
 import javax.xml.parsers.ParserConfigurationException;
 import javax.xml.transform.TransformerException;
 import org.xml.sax.SAXException;
-import com.httphelper.HttpClientHelper;
-import com.jsoup.JsoupHelper;
-import com.xmloperate.XmlOperateHelper;
+
+import org.climer.http.HttpClientHelper;
+import org.climer.jsoup.JsoupHelper;
+import org.climer.xmloperator.XmlOperateHelper;
 
 public class MainTest {
 

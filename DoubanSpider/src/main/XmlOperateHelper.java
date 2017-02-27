@@ -1,4 +1,4 @@
-package com.xmloperate;
+package org.climer.xmloperator;
 
 import java.io.IOException;
 import javax.xml.parsers.DocumentBuilder;
